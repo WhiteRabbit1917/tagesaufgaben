@@ -1,0 +1,13 @@
+TAGESAUFGABEN – PWA-Dateien für PWABuilder
+
+Inhalt: index.html, manifest.json, sw.js, icons/ (192, 512, maskable)
+
+1. Alle Dateien (mit Ordner icons) UNVERÄNDERT in den Hauptordner deiner Webseite hochladen,
+   z. B. bei GitHub Pages, Netlify oder Cloudflare Pages. Die Seite muss per HTTPS erreichbar sein.
+2. Auf pwabuilder.com die Adresse deiner Seite eingeben und auf "Start" klicken.
+3. Wenn die Prüfung Manifest und Service Worker erkennt: "Package for Stores" -> "Android".
+4. Optionen bestätigen (App-Name, Paket-ID wie com.deinname.tagesaufgaben) und herunterladen.
+5. Die ZIP entpacken, die .apk aufs Handy übertragen und installieren
+   (Installation aus unbekannten Quellen erlauben).
+
+Hinweis: Die Menüs bei PWABuilder können sich ändern.
